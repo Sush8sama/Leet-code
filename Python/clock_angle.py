@@ -1,6 +1,6 @@
 
 """
-An interview question I heard some time ago.
+An interview question I heard some time ago. [Sep 10th 2025]
 
 Question: Given a time in hh:mm format, calculate the angle of the hour and minute hands on a clock.
 """
